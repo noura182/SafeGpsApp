@@ -1,0 +1,28 @@
+{
+  "project_info": {
+    "project_number": "388637210189",
+    "project_id": "gpsapps-f3dca",
+    "storage_bucket": "gpsapps-f3dca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388637210189:android:placeholder",
+        "android_client_info": {
+          "package_name": "com.safegps"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyBemC4FzTTH3zmqHVl6eEUS5AuG9WucQAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
